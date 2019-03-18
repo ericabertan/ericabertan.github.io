@@ -2,15 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Erica Bertan
 
-[Link to another page](./another-page.html).
+Computer Science, Machine Learning.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-# Header 1
+<!-- [Link to another page](./content/another-page.html). -->
+
+## [Who am I?](./content/who-am-i.html)
+
+Hello World! My name is Erica Bertan and I'm 24 years old. I live in Manaus, located at
+Amazonas, a state in Brazil.
+
+In this blogpost, I want to show you my personal projects and contributions,
+including the period of my master's degree.
+
+<!-- # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -120,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
