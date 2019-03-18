@@ -11,13 +11,15 @@ Computer Science, Machine Learning.
 
 <!-- [Link to another page](./content/another-page.html). -->
 
-## [Who am I?](./content/who-am-i.html)
+## Who am I?
 
 Hello World! My name is Erica Bertan and I'm 24 years old. I live in Manaus, located at
 Amazonas, a state in Brazil.
 
 In this blogpost, I want to show you my personal projects and contributions,
 including the period of my master's degree.
+
+[Read more](./content/who-am-i.html)
 
 <!-- # Header 1
 
